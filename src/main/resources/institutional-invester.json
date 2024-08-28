@@ -1,0 +1,11 @@
+{
+    "companyName": "companyNameTest",
+    "countryOfIncorporation": "countryOfIncorporationTest",
+    "directorDtoList": [
+        {
+            "firstName": "firstNameTest",
+            "lastName": "lastNameTest",
+            "countryOfResidence": "countryOfResidenceTest"
+        }
+    ]
+}

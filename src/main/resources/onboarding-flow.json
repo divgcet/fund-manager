@@ -1,0 +1,15 @@
+{
+   
+    "fundId": "7916fbc6-819e-426b-a59e-af89cb43693e",
+    "investorType": "HNI",
+    "taskList": [
+        {
+            "questionDtoList": [
+                {
+                    "text": "testText",
+                    "mandatory": false
+                }
+            ]
+        }
+    ]
+}
